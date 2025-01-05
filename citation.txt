@@ -1,0 +1,9 @@
+@inproceedings{REPO036,
+    author = "Duan, Jingcan and Wang, Siwei and Zhang, Pei and Zhu, En and Hu, Jingtao and Jin, Hu and Liu, Yue and Dong, Zhibin",
+    booktitle = "Proceedings of the AAAI conference on artificial intelligence",
+    number = "6",
+    pages = "7459--7467",
+    title = "{Graph anomaly detection via multi-scale contrastive learning networks with augmented view}",
+    volume = "37",
+    year = "2023"
+}
